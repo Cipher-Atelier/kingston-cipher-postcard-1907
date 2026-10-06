@@ -128,5 +128,13 @@
     "current_slug": "kingston-cipher-postcard-1907",
     "date_utc": "2026-10-06",
     "scope": "Document labels, description and navigation only. Repository identity/history and scientific identifiers remain preserved."
+  },
+  "community_workflow_update": {
+    "date_utc": "2026-10-06",
+    "previous_commit": "85f02d0293ee2fc5c0e647916b904e8fec6cddce",
+    "scope": "Research participation links and workflow entry point only; retained scientific inputs and claim status unchanged. adapted_files hashes above record the initial publication snapshot.",
+    "navigation_file": "README.md",
+    "previous_sha256": "b5df8c77c95dd3b2c3fcc4957421abf717537c1aa84b5535182ff57416a96552",
+    "current_sha256": "41feb9abcffe2c61d5d8bbbab421a2e2ce8294ca2724e69253d33ecbd8e25f0f"
   }
 }
