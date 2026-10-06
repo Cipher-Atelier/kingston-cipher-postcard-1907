@@ -1,5 +1,99 @@
 # Verify kingston-1907
 
+[Repository overview](../README.md) · [Read the result and check one example by hand](../READING_GUIDE.md)
+
+## What this check does
+
+The supported command first checks the published file fingerprints in `SHA256SUMS.txt`, then repeats this investigation’s saved calculation. A fingerprint (SHA-256) identifies exact file bytes; it is not a scientific correctness score.
+
+The replay checks the geometric key against every retained position. It does not rerun key discovery or certify the original image readings.
+
+It uses Python’s standard library, makes no network requests, and needs no downloaded scans or extra packages for this default check. It does not fit a new key or edit the research evidence.
+
+## Download and open the folder
+
+1. On [this repository’s main page](https://github.com/Cipher-Atelier/kingston-cipher-postcard-1907), choose **Code → Download ZIP**, following [GitHub’s download instructions](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives).
+2. Extract the whole ZIP. Keep its folders and files together; do not download only `check_all.py`.
+3. Open a terminal in the extracted top-level folder: it contains `README.md`, `SHA256SUMS.txt` and the `verification` folder. For example, after navigating to its parent directory:
+
+```sh
+cd kingston-cipher-postcard-1907-main
+```
+
+If you already use Git, cloning the full repository is an alternative:
+
+```sh
+git clone https://github.com/Cipher-Atelier/kingston-cipher-postcard-1907.git
+cd kingston-cipher-postcard-1907
+```
+
+## Run the supported check
+
+Use **Python 3.10 or later**. On macOS/Linux, check the installed version and run:
+
+```sh
+python3 --version
+python3 verification/check_all.py
+```
+
+On Windows, if the Python launcher is installed, use:
+
+```powershell
+py -3 --version
+py -3 verification/check_all.py
+```
+
+If your Python command is `python` rather than `python3` or `py -3`, use that command after confirming it is Python 3.10+. If Python is absent, obtain it from [python.org](https://www.python.org/downloads/) or your operating system’s supported installation method.
+
+Run ordinary Python, with no `-O`/`-OO` options and no `PYTHONOPTIMIZE` setting that enables optimization: the checker relies on assertions.
+
+## What a successful run looks like
+
+The command exits successfully and prints a JSON report with top-level `"status": "passed"`. It also reports how many fingerprinted files were checked. That file count can change when documentation is updated.
+
+The following are the expected status/topic/replay fields; the actual report also includes `files_checked` and scope limits:
+
+```json
+{
+  "status": "passed",
+  "topic": "kingston-1907",
+  "replay": {
+    "kingston-1907": {
+      "status": "PASS",
+      "scope": "mechanical replay only",
+      "positions": 222,
+      "mapped": 213,
+      "unknown": 8,
+      "unexplained_slot27": 1,
+      "limit": "213/222 is coverage, not accuracy."
+    }
+  }
+}
+```
+
+In ordinary words: **222 cipher positions: 213 mapped, eight unknown, one unexplained slot 27. The literal includes separately described handwriting and terminal material.**
+
+## What passing does not establish
+
+213/222 measures how many cipher positions receive a letter under the recorded rules. It is not a 95.9% correctness score. The German-like phrase, sign 27 and closing wording remain unresolved; the writer’s identity is not established by this reading.
+
+Passing verifies that these published inputs and saved rules give the recorded result. It does not certify source-image transcription, historical truth, a unique interpretation, author identity, discovery priority or external expert review. To inspect those questions, follow [the manual example and source-checking route](../READING_GUIDE.md#check-one-example-by-hand).
+
+## If it fails
+
+| Symptom | What to do |
+| --- | --- |
+| Python command not found, or version below 3.10 | Install/use Python 3.10+; confirm its version first |
+| Cannot open `verification/check_all.py` | Move into the extracted repository’s top-level folder |
+| Missing file | Extract the complete ZIP again; retain the directory structure |
+| `Hash mismatch: ...` | Compare with an untouched download of the same version; edits change the fingerprint |
+| Optimization warning | Run without `-O`/`-OO` and disable any `PYTHONOPTIMIZE` setting |
+| Assertion, replay mismatch or another error on an untouched package | Save the complete error, Python version and repository commit/download reference; report it in a [research issue](https://github.com/Cipher-Atelier/kingston-cipher-postcard-1907/issues/new?template=research.yml) |
+
+Do not change the evidence, expected results or fingerprints just to make a failing check pass. If reporting reproduction, record the commit SHA shown on GitHub; a later `main` download may contain documentation updates. A [commit-specific archive](https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#source-code-archive-urls) pins the file version.
+
+## Preserved publication scope
+
 Partial geometric-key reading: 213 mapped out of 222 positions, eight masks and unexplained slot 27. Coverage is not accuracy; retain original and later corrections.
 
 222 grid positions; 213 mapped, eight source masks and one unexplained slot 27. Coverage is not accuracy. Original 63-to-64 heldout count correction, source revisions, cursive islands and terminal material remain distinct.
