@@ -1,4 +1,4 @@
-# kingston-1907
+# Kingston cipher postcard (8 December 1907)
 
 Partial geometric-key reading: 213 mapped out of 222 positions, eight masks and unexplained slot 27. Coverage is not accuracy; retain original and later corrections.
 

@@ -63,22 +63,22 @@
     },
     {
       "path": "CHANGELOG.md",
-      "sha256": "c9e02ec087fb31b1d5f2fa6781e0c2995a59d9b09ded58794c8ad61157940a5d",
+      "sha256": "03ea02104981ea888980037e0a57f0ed5c3ee68cfeb2f3a9043090b269f30319",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "README.md",
-      "sha256": "3ac6e90459705cdbaad3d4ec55f4267332f4c86991f48bc7c1cc1b41efa2fd78",
+      "sha256": "b5df8c77c95dd3b2c3fcc4957421abf717537c1aa84b5535182ff57416a96552",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "SHA256SUMS.txt",
-      "sha256": "a2f4ce5cba1f6216a7e2c5706274ed75557ff2daef3308238cde89f8a509352d",
+      "sha256": "3d34bbdce771c983b65c71168376f178380a562008837c442dfc203d51683985",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
       "path": "SOURCE_PROVENANCE.json",
-      "sha256": "701ff94e8b90c7c96402f0cab8641d074bbc2435871d737680996f076ff84a47",
+      "sha256": "a8bbcbc390976b08d2234b0b0e572fc2e8e38ac11d21b4ec7c6935813f1ee205",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "path": "verification/TOPIC_SCOPE_INDEX.json",
-      "sha256": "16c2e1ad2a0c4390329c16ea91ff8226221d05b46c41c728c148239da460ce41",
+      "sha256": "fe0f1baae3b35b3b9ff2b547bf0d70d9069098264d97df6f4603b80c267ec843",
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     },
     {
@@ -122,5 +122,11 @@
       "transform": "New scoped navigation, metadata or replay dispatch; original scientific inputs remain separately inventoried."
     }
   ],
-  "rights": "Source-specific credits and restrictions apply; no new blanket licence."
+  "rights": "Source-specific credits and restrictions apply; no new blanket licence.",
+  "repository_rename": {
+    "previous_slug": "kingston-1907",
+    "current_slug": "kingston-cipher-postcard-1907",
+    "date_utc": "2026-10-06",
+    "scope": "Document labels, description and navigation only. Repository identity/history and scientific identifiers remain preserved."
+  }
 }
