@@ -1,0 +1,700 @@
+{
+  "evaluated_utc": "2026-10-04T17:59:05.159139+00:00",
+  "source_sha256": "d56ad02456c04eef189869354d43a7a27068eba99b7471a529e93473cad29e96",
+  "frozen_learned_key_sha256": "7b2ae916e5b1b7f2bacb918d6606ac30ebbe6b2d817d419fee1aa59bd6972cbc",
+  "frozen_geometry_rule_sha256": "5c8cc38e5f8e3c4b1bcd9e042fac1d922279d258b297d2c52f5d79d1b8663071",
+  "source_positions": 64,
+  "strict_learned_coverage": 53,
+  "strict_geometry_coverage": 60,
+  "new_geometry_prediction_positions": [
+    "r10c03",
+    "r10c12",
+    "r10c16",
+    "r12c08",
+    "r12c10",
+    "r13c01",
+    "r13c08"
+  ],
+  "ambiguous_source_positions": [
+    "r11c03",
+    "r11c11",
+    "r12c01",
+    "r12c12"
+  ],
+  "rows": [
+    {
+      "row": 10,
+      "learned_only_strict": "lo?e you to ma?e up ?or",
+      "geometry_strict": "love you to make up for",
+      "preferred_source_geometry": "love you to make up for"
+    },
+    {
+      "row": 11,
+      "learned_only_strict": "it ?hen i see ?ou so good",
+      "geometry_strict": "it ?hen i see ?ou so good",
+      "preferred_source_geometry": "it when i see ?ou so good"
+    },
+    {
+      "row": 12,
+      "learned_only_strict": "?ight lo?e ?i?s es your",
+      "geometry_strict": "?ight love ki?s es your",
+      "preferred_source_geometry": "eight love kius es your"
+    },
+    {
+      "row": 13,
+      "learned_only_strict": "?ettsoc?",
+      "geometry_strict": "fettsock",
+      "preferred_source_geometry": "fettsock"
+    }
+  ],
+  "positions": [
+    {
+      "position": "r10c01",
+      "source_glyph": "BL2",
+      "source_ambiguous": false,
+      "learned_map_value": "l",
+      "geometry_value": "l",
+      "strict_learned": "l",
+      "strict_geometry": "l",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c02",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c03",
+      "source_glyph": "TRB3",
+      "source_ambiguous": false,
+      "learned_map_value": null,
+      "geometry_value": "v",
+      "strict_learned": "?",
+      "strict_geometry": "v",
+      "geometry_only_prediction": true
+    },
+    {
+      "position": "r10c04",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": false,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "e",
+      "strict_geometry": "e",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c05",
+      "source_glyph": "TR3",
+      "source_ambiguous": false,
+      "learned_map_value": "y",
+      "geometry_value": "y",
+      "strict_learned": "y",
+      "strict_geometry": "y",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c06",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c07",
+      "source_glyph": "BL3",
+      "source_ambiguous": false,
+      "learned_map_value": "u",
+      "geometry_value": "u",
+      "strict_learned": "u",
+      "strict_geometry": "u",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c08",
+      "source_glyph": "BLR3",
+      "source_ambiguous": false,
+      "learned_map_value": "t",
+      "geometry_value": "t",
+      "strict_learned": "t",
+      "strict_geometry": "t",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c09",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c10",
+      "source_glyph": "TRB2",
+      "source_ambiguous": false,
+      "learned_map_value": "m",
+      "geometry_value": "m",
+      "strict_learned": "m",
+      "strict_geometry": "m",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c11",
+      "source_glyph": "BR1",
+      "source_ambiguous": false,
+      "learned_map_value": "a",
+      "geometry_value": "a",
+      "strict_learned": "a",
+      "strict_geometry": "a",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c12",
+      "source_glyph": "BLR2",
+      "source_ambiguous": false,
+      "learned_map_value": null,
+      "geometry_value": "k",
+      "strict_learned": "?",
+      "strict_geometry": "k",
+      "geometry_only_prediction": true
+    },
+    {
+      "position": "r10c13",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": false,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "e",
+      "strict_geometry": "e",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c14",
+      "source_glyph": "BL3",
+      "source_ambiguous": false,
+      "learned_map_value": "u",
+      "geometry_value": "u",
+      "strict_learned": "u",
+      "strict_geometry": "u",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c15",
+      "source_glyph": "TR2",
+      "source_ambiguous": false,
+      "learned_map_value": "p",
+      "geometry_value": "p",
+      "strict_learned": "p",
+      "strict_geometry": "p",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c16",
+      "source_glyph": "TLB1",
+      "source_ambiguous": false,
+      "learned_map_value": null,
+      "geometry_value": "f",
+      "strict_learned": "?",
+      "strict_geometry": "f",
+      "geometry_only_prediction": true
+    },
+    {
+      "position": "r10c17",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r10c18",
+      "source_glyph": "TL2",
+      "source_ambiguous": false,
+      "learned_map_value": "r",
+      "geometry_value": "r",
+      "strict_learned": "r",
+      "strict_geometry": "r",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c01",
+      "source_glyph": "TL1",
+      "source_ambiguous": false,
+      "learned_map_value": "i",
+      "geometry_value": "i",
+      "strict_learned": "i",
+      "strict_geometry": "i",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c02",
+      "source_glyph": "BLR3",
+      "source_ambiguous": false,
+      "learned_map_value": "t",
+      "geometry_value": "t",
+      "strict_learned": "t",
+      "strict_geometry": "t",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c03",
+      "source_glyph": "TLBR3",
+      "source_ambiguous": true,
+      "learned_map_value": "w",
+      "geometry_value": "w",
+      "strict_learned": "?",
+      "strict_geometry": "?",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c04",
+      "source_glyph": "TLR1",
+      "source_ambiguous": false,
+      "learned_map_value": "h",
+      "geometry_value": "h",
+      "strict_learned": "h",
+      "strict_geometry": "h",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c05",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": false,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "e",
+      "strict_geometry": "e",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c06",
+      "source_glyph": "TLBR2",
+      "source_ambiguous": false,
+      "learned_map_value": "n",
+      "geometry_value": "n",
+      "strict_learned": "n",
+      "strict_geometry": "n",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c07",
+      "source_glyph": "TL1",
+      "source_ambiguous": false,
+      "learned_map_value": "i",
+      "geometry_value": "i",
+      "strict_learned": "i",
+      "strict_geometry": "i",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c08",
+      "source_glyph": "BR3",
+      "source_ambiguous": false,
+      "learned_map_value": "s",
+      "geometry_value": "s",
+      "strict_learned": "s",
+      "strict_geometry": "s",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c09",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": false,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "e",
+      "strict_geometry": "e",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c10",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": false,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "e",
+      "strict_geometry": "e",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c11",
+      "source_glyph": "TR?",
+      "source_ambiguous": true,
+      "learned_map_value": null,
+      "geometry_value": null,
+      "strict_learned": "?",
+      "strict_geometry": "?",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c12",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c13",
+      "source_glyph": "BL3",
+      "source_ambiguous": false,
+      "learned_map_value": "u",
+      "geometry_value": "u",
+      "strict_learned": "u",
+      "strict_geometry": "u",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c14",
+      "source_glyph": "BR3",
+      "source_ambiguous": false,
+      "learned_map_value": "s",
+      "geometry_value": "s",
+      "strict_learned": "s",
+      "strict_geometry": "s",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c15",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c16",
+      "source_glyph": "TR1",
+      "source_ambiguous": false,
+      "learned_map_value": "g",
+      "geometry_value": "g",
+      "strict_learned": "g",
+      "strict_geometry": "g",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c17",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c18",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r11c19",
+      "source_glyph": "TRB1",
+      "source_ambiguous": false,
+      "learned_map_value": "d",
+      "geometry_value": "d",
+      "strict_learned": "d",
+      "strict_geometry": "d",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c01",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": true,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "?",
+      "strict_geometry": "?",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c02",
+      "source_glyph": "TL1",
+      "source_ambiguous": false,
+      "learned_map_value": "i",
+      "geometry_value": "i",
+      "strict_learned": "i",
+      "strict_geometry": "i",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c03",
+      "source_glyph": "TR1",
+      "source_ambiguous": false,
+      "learned_map_value": "g",
+      "geometry_value": "g",
+      "strict_learned": "g",
+      "strict_geometry": "g",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c04",
+      "source_glyph": "TLR1",
+      "source_ambiguous": false,
+      "learned_map_value": "h",
+      "geometry_value": "h",
+      "strict_learned": "h",
+      "strict_geometry": "h",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c05",
+      "source_glyph": "BLR3",
+      "source_ambiguous": false,
+      "learned_map_value": "t",
+      "geometry_value": "t",
+      "strict_learned": "t",
+      "strict_geometry": "t",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c06",
+      "source_glyph": "BL2",
+      "source_ambiguous": false,
+      "learned_map_value": "l",
+      "geometry_value": "l",
+      "strict_learned": "l",
+      "strict_geometry": "l",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c07",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c08",
+      "source_glyph": "TRB3",
+      "source_ambiguous": false,
+      "learned_map_value": null,
+      "geometry_value": "v",
+      "strict_learned": "?",
+      "strict_geometry": "v",
+      "geometry_only_prediction": true
+    },
+    {
+      "position": "r12c09",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": false,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "e",
+      "strict_geometry": "e",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c10",
+      "source_glyph": "BLR2",
+      "source_ambiguous": false,
+      "learned_map_value": null,
+      "geometry_value": "k",
+      "strict_learned": "?",
+      "strict_geometry": "k",
+      "geometry_only_prediction": true
+    },
+    {
+      "position": "r12c11",
+      "source_glyph": "TL1",
+      "source_ambiguous": false,
+      "learned_map_value": "i",
+      "geometry_value": "i",
+      "strict_learned": "i",
+      "strict_geometry": "i",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c12",
+      "source_glyph": "BL3",
+      "source_ambiguous": true,
+      "learned_map_value": "u",
+      "geometry_value": "u",
+      "strict_learned": "?",
+      "strict_geometry": "?",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c13",
+      "source_glyph": "BR3",
+      "source_ambiguous": false,
+      "learned_map_value": "s",
+      "geometry_value": "s",
+      "strict_learned": "s",
+      "strict_geometry": "s",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c14",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": false,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "e",
+      "strict_geometry": "e",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c15",
+      "source_glyph": "BR3",
+      "source_ambiguous": false,
+      "learned_map_value": "s",
+      "geometry_value": "s",
+      "strict_learned": "s",
+      "strict_geometry": "s",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c16",
+      "source_glyph": "TR3",
+      "source_ambiguous": false,
+      "learned_map_value": "y",
+      "geometry_value": "y",
+      "strict_learned": "y",
+      "strict_geometry": "y",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c17",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c18",
+      "source_glyph": "BL3",
+      "source_ambiguous": false,
+      "learned_map_value": "u",
+      "geometry_value": "u",
+      "strict_learned": "u",
+      "strict_geometry": "u",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r12c19",
+      "source_glyph": "TL2",
+      "source_ambiguous": false,
+      "learned_map_value": "r",
+      "geometry_value": "r",
+      "strict_learned": "r",
+      "strict_geometry": "r",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r13c01",
+      "source_glyph": "TLB1",
+      "source_ambiguous": false,
+      "learned_map_value": null,
+      "geometry_value": "f",
+      "strict_learned": "?",
+      "strict_geometry": "f",
+      "geometry_only_prediction": true
+    },
+    {
+      "position": "r13c02",
+      "source_glyph": "TLBR1",
+      "source_ambiguous": false,
+      "learned_map_value": "e",
+      "geometry_value": "e",
+      "strict_learned": "e",
+      "strict_geometry": "e",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r13c03",
+      "source_glyph": "BLR3",
+      "source_ambiguous": false,
+      "learned_map_value": "t",
+      "geometry_value": "t",
+      "strict_learned": "t",
+      "strict_geometry": "t",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r13c04",
+      "source_glyph": "BLR3",
+      "source_ambiguous": false,
+      "learned_map_value": "t",
+      "geometry_value": "t",
+      "strict_learned": "t",
+      "strict_geometry": "t",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r13c05",
+      "source_glyph": "BR3",
+      "source_ambiguous": false,
+      "learned_map_value": "s",
+      "geometry_value": "s",
+      "strict_learned": "s",
+      "strict_geometry": "s",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r13c06",
+      "source_glyph": "TLB2",
+      "source_ambiguous": false,
+      "learned_map_value": "o",
+      "geometry_value": "o",
+      "strict_learned": "o",
+      "strict_geometry": "o",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r13c07",
+      "source_glyph": "BL1",
+      "source_ambiguous": false,
+      "learned_map_value": "c",
+      "geometry_value": "c",
+      "strict_learned": "c",
+      "strict_geometry": "c",
+      "geometry_only_prediction": false
+    },
+    {
+      "position": "r13c08",
+      "source_glyph": "BLR2",
+      "source_ambiguous": false,
+      "learned_map_value": null,
+      "geometry_value": "k",
+      "strict_learned": "?",
+      "strict_geometry": "k",
+      "geometry_only_prediction": true
+    }
+  ],
+  "plain_island": "Row12aftergridcolumn9, two ordinaryletter slots tentatively in/is/i?; not decoded or used for scoring.",
+  "terminal": "Unresolved extra region remains outside64definitepositions.",
+  "limits": [
+    "First heldout evaluation. No historical plaintext oracle; all coverage numbers are mapping coverage, not correctness scores.",
+    "Learned-key-only and conditional geometric predictions are separate. Neither key nor rule was changed after the heldout source was supplied.",
+    "Original heldoutcount63 was corrected to64 by a keyblind image reader; training/input/keyunchanged and score-only padding invariance checked.",
+    "No choice among sourcevariants is made by semantic readability."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "kingston-1907": {
+    "published_scope": "222 grid positions; 213 mapped, eight source masks and one unexplained slot 27.",
+    "published_page": "https://github.com/cayde-6/historical-cipher-research/blob/24a7ae8f3e88664f3f1b472082f80259be641f98/kingston-1907/README.md",
+    "primary_and_prior_sources": [
+      "https://crypto.hcportal.eu/dashboard/cryptograms/1193",
+      "https://api.hcportal.eu/media/3639/cpc_1907-12-08_USA_Kingston,-NY_USA_New-York__pic.jpg",
+      "https://people.duke.edu/~ng46/collections/crypto-paper.htm",
+      "https://ecp.ep.liu.se/index.php/histocrypt/article/view/166"
+    ],
+    "remaining_limits": "Coverage is not accuracy. Original 63-to-64 heldout count correction, source revisions, cursive islands and terminal material remain distinct."
+  }
+}

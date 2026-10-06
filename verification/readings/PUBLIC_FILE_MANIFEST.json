@@ -1,0 +1,87 @@
+{
+  "status": "Public export provenance record; file hashes identify these retained or explicitly redacted research records.",
+  "files": [
+    {
+      "path": "evidence/HCP1193_Verified_Reading/geometry_key.json",
+      "topic": "kingston-1907",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "4327242fa997891360eba4e30d7ae6399d0febd385360d6ba0d81f35e6ca8118",
+      "source_sha256": "4327242fa997891360eba4e30d7ae6399d0febd385360d6ba0d81f35e6ca8118",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP1193_Verified_Reading/transcription_and_reading.tsv",
+      "topic": "kingston-1907",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "115b32aabd9b43be111115a8f68dd10f14476d4a1962626afe72f494a2cc3db7",
+      "source_sha256": "115b32aabd9b43be111115a8f68dd10f14476d4a1962626afe72f494a2cc3db7",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/HCP1193_Verified_Reading/literal_reading.txt",
+      "topic": "kingston-1907",
+      "role": "Frozen transcript/key/output/occurrence apparatus",
+      "sha256": "50641898cd3a850b68e6bc54f82539306e436d709eca1adc11c358ea2188071e",
+      "source_sha256": "50641898cd3a850b68e6bc54f82539306e436d709eca1adc11c358ea2188071e",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Kingston1907_Pilot_Checkpoint/kingston1193_pilot/POST_SOURCE_REVIEW_ADDENDUM.json",
+      "topic": "kingston-1907",
+      "role": "Source-position/initial-vs-later ledger; local paths omitted where indicated",
+      "sha256": "64749e7a3052509e00314d6c851bd0287f19e3f57fe8f0df701ee42fbc5156ed",
+      "source_sha256": "64749e7a3052509e00314d6c851bd0287f19e3f57fe8f0df701ee42fbc5156ed",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Kingston1907_Pilot_Checkpoint/kingston1193_pilot/HELDOUT_FIRST_EVALUATION.json",
+      "topic": "kingston-1907",
+      "role": "Source-position/initial-vs-later ledger; local paths omitted where indicated",
+      "sha256": "110d7f58c476d3d5f9336a5e896b53031a09bb4c4bc4cf311625dd4cbe90509e",
+      "source_sha256": "110d7f58c476d3d5f9336a5e896b53031a09bb4c4bc4cf311625dd4cbe90509e",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    },
+    {
+      "path": "evidence/Kingston1907_Pilot_Checkpoint/kingston1193_pilot/FROZEN_GEOMETRY_DIAGNOSTIC.json",
+      "topic": "kingston-1907",
+      "role": "Source-position/initial-vs-later ledger; local paths omitted where indicated",
+      "sha256": "5c8cc38e5f8e3c4b1bcd9e042fac1d922279d258b297d2c52f5d79d1b8663071",
+      "source_sha256": "5c8cc38e5f8e3c4b1bcd9e042fac1d922279d258b297d2c52f5d79d1b8663071",
+      "transform": "verbatim retained data",
+      "omitted_path_fields": [],
+      "publication_assessment": "Candidate factual transcription/key/position data or project-authored edition; cited archival/key sources remain credited. No archival pixels, model corpora or upstream program included.",
+      "repository_licence": "No blanket licence is asserted; source-specific rights and attribution apply."
+    }
+  ],
+  "new_code": [
+    "replay.py"
+  ],
+  "excluded": [
+    "All manuscript images and rendered crops",
+    "All PDF/DOCX/old raw reports and private checkpoint files",
+    "All raw corpora and binary language models",
+    "All prior code from third-party repositories",
+    "Private Library identifiers and absolute working paths",
+    "Historical full-search runs and missing alphabet.json reconstruction"
+  ],
+  "rights_notes": [
+    "Source links do not license images; coordinate-only reproduction is used.",
+    "Project-authored code/data does not establish ownership or sublicensing of third-party archives. Coordinator should add appropriate notices, not invent a repository-wide licence."
+  ],
+  "adapted_replay_source_sha256": "de40dfdccf8d3179bd83ab878a6cddd9d3bb3213f4b08285946befbce0640f2c"
+}

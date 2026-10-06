@@ -1,0 +1,11 @@
+{
+  "kingston-1907": {
+    "status": "PASS",
+    "scope": "mechanical replay only",
+    "positions": 222,
+    "mapped": 213,
+    "unknown": 8,
+    "unexplained_slot27": 1,
+    "limit": "213/222 is coverage, not accuracy."
+  }
+}

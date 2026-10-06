@@ -1,0 +1,5792 @@
+{
+  "evaluated_utc": "2026-10-04T17:50:11.349173+00:00",
+  "training_key_sha256": "7b2ae916e5b1b7f2bacb918d6606ac30ebbe6b2d817d419fee1aa59bd6972cbc",
+  "learned_mappings": {
+    "BL1": "c",
+    "BL2": "l",
+    "BL3": "u",
+    "BLR1": "b",
+    "BLR3": "t",
+    "BR1": "a",
+    "BR3": "s",
+    "TL1": "i",
+    "TL2": "r",
+    "TL3": "f",
+    "TLB2": "o",
+    "TLB3": "x",
+    "TLBR1": "e",
+    "TLBR2": "n",
+    "TLBR3": "w",
+    "TLR1": "h",
+    "TR1": "g",
+    "TR2": "p",
+    "TR3": "y",
+    "TRB1": "d",
+    "TRB2": "m"
+  },
+  "candidate_count": 48,
+  "eligible_count": 1,
+  "eligible": [
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "b"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "t"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "m"
+        }
+      ],
+      "mismatches": [],
+      "extra_index26_symbols": [
+        "TL3"
+      ],
+      "eligible": true
+    }
+  ],
+  "cases": [
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "b"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "t"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "m"
+        }
+      ],
+      "mismatches": [],
+      "extra_index26_symbols": [
+        "TL3"
+      ],
+      "eligible": true
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        2,
+        1
+      ],
+      "matches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "b"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "d"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "k"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "v"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        1,
+        0,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "t"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "y"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "k"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "d"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        1,
+        2,
+        0
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "k"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "b"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "v"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        2,
+        0,
+        1
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "t"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "k"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "d"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        2,
+        1,
+        0
+      ],
+      "matches": [
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "m"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "t"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "b"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "v"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "b"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "h"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "o"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        0,
+        2,
+        1
+      ],
+      "matches": [
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "h"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "k"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "x"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        1,
+        0,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "k"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "f"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        1,
+        2,
+        0
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "k"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "b"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "x"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        2,
+        0,
+        1
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "t"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "k"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "f"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 0,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        2,
+        1,
+        0
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "t"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "b"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "o"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "f"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "x"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "k"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        2,
+        1
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "f"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "o"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "t"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        1,
+        0,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "o"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "x"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "b"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        1,
+        2,
+        0
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "o"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "f"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "t"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        2,
+        0,
+        1
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "x"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "o"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "b"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        2,
+        1,
+        0
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "x"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "f"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "k"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "y"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "f"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "x"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "q"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BR3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        0,
+        2,
+        1
+      ],
+      "matches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "g"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "f"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "o"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "z"
+        }
+      ],
+      "extra_index26_symbols": [],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        1,
+        0,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "y"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "o"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "x"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "h"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BR3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        1,
+        2,
+        0
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "o"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "f"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "z"
+        }
+      ],
+      "extra_index26_symbols": [],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        2,
+        0,
+        1
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "l"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "x"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "o"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "h"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BR1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 1,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        2,
+        1,
+        0
+      ],
+      "matches": [
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "p"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "u"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "c"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "x"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "f"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "q"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BR1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "h"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "z"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "o"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BR3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        2,
+        1
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "h"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "q"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "x"
+        }
+      ],
+      "extra_index26_symbols": [],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        1,
+        0,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "q"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "z"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "f"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BR3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        1,
+        2,
+        0
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "q"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "h"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "x"
+        }
+      ],
+      "extra_index26_symbols": [],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        2,
+        0,
+        1
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "z"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "q"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "f"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BR1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        2,
+        1,
+        0
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "z"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "h"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "o"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BR1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "d"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "m"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "h"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "z"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "s"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        0,
+        2,
+        1
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "d"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "h"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "q"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "v"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        1,
+        0,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "q"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "z"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "d"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        1,
+        2,
+        0
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "q"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "h"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "m"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "v"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        2,
+        0,
+        1
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "z"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "q"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "d"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 2,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        2,
+        1,
+        0
+      ],
+      "matches": [
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "m"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "r"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "i"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "z"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "h"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "v"
+        }
+      ],
+      "extra_index26_symbols": [
+        "BL1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "d"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "v"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "q"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        0,
+        2,
+        1
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "d"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "m"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "z"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        1,
+        0,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "m"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "v"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "y"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "h"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        1,
+        2,
+        0
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "m"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "d"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "z"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        2,
+        0,
+        1
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "v"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "m"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "p"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "h"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": false,
+      "modifier_blocks": [
+        2,
+        1,
+        0
+      ],
+      "matches": [
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "v"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "d"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "g"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "q"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TR1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        0,
+        1,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "a"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "d"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "v"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "k"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        0,
+        2,
+        1
+      ],
+      "matches": [
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "e"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "d"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "m"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "f"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "b"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "t"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        1,
+        0,
+        2
+      ],
+      "matches": [
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "s"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "w"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "m"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "v"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "b"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL3"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        1,
+        2,
+        0
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "m"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "d"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "j"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL1",
+          "learned": "i",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "z"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "o"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "k"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "t"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL2"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        2,
+        0,
+        1
+      ],
+      "matches": [],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "v"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "m"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "j"
+        },
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "n"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "b"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL1"
+      ],
+      "eligible": false
+    },
+    {
+      "rotation_quarter_turns": 3,
+      "reflect_columns": true,
+      "modifier_blocks": [
+        2,
+        1,
+        0
+      ],
+      "matches": [
+        {
+          "glyph": "TL2",
+          "learned": "r",
+          "geometry": "r"
+        },
+        {
+          "glyph": "TLBR2",
+          "learned": "n",
+          "geometry": "n"
+        }
+      ],
+      "mismatches": [
+        {
+          "glyph": "BL1",
+          "learned": "c",
+          "geometry": "y"
+        },
+        {
+          "glyph": "BL2",
+          "learned": "l",
+          "geometry": "p"
+        },
+        {
+          "glyph": "BL3",
+          "learned": "u",
+          "geometry": "g"
+        },
+        {
+          "glyph": "BLR1",
+          "learned": "b",
+          "geometry": "v"
+        },
+        {
+          "glyph": "BLR3",
+          "learned": "t",
+          "geometry": "d"
+        },
+        {
+          "glyph": "BR1",
+          "learned": "a",
+          "geometry": "s"
+        },
+        {
+          "glyph": "BR3",
+          "learned": "s",
+          "geometry": "a"
+        },
+        {
+          "glyph": "TL3",
+          "learned": "f",
+          "geometry": "i"
+        },
+        {
+          "glyph": "TLB2",
+          "learned": "o",
+          "geometry": "q"
+        },
+        {
+          "glyph": "TLB3",
+          "learned": "x",
+          "geometry": "h"
+        },
+        {
+          "glyph": "TLBR1",
+          "learned": "e",
+          "geometry": "w"
+        },
+        {
+          "glyph": "TLBR3",
+          "learned": "w",
+          "geometry": "e"
+        },
+        {
+          "glyph": "TLR1",
+          "learned": "h",
+          "geometry": "x"
+        },
+        {
+          "glyph": "TR1",
+          "learned": "g",
+          "geometry": "u"
+        },
+        {
+          "glyph": "TR2",
+          "learned": "p",
+          "geometry": "l"
+        },
+        {
+          "glyph": "TR3",
+          "learned": "y",
+          "geometry": "c"
+        },
+        {
+          "glyph": "TRB1",
+          "learned": "d",
+          "geometry": "t"
+        },
+        {
+          "glyph": "TRB2",
+          "learned": "m",
+          "geometry": "k"
+        }
+      ],
+      "extra_index26_symbols": [
+        "TL1"
+      ],
+      "eligible": false
+    }
+  ],
+  "scope": "Training-derived post-key consistency test only. No heldout source transcript read, no key fitting or source repair.",
+  "frozen_conditional_geometry_key": {
+    "BR1": "a",
+    "BR2": "j",
+    "BR3": "s",
+    "LBR1": "b",
+    "LBR2": "k",
+    "LBR3": "t",
+    "LB1": "c",
+    "LB2": "l",
+    "LB3": "u",
+    "TBR1": "d",
+    "TBR2": "m",
+    "TBR3": "v",
+    "TLBR1": "e",
+    "TLBR2": "n",
+    "TLBR3": "w",
+    "TLB1": "f",
+    "TLB2": "o",
+    "TLB3": "x",
+    "TR1": "g",
+    "TR2": "p",
+    "TR3": "y",
+    "TLR1": "h",
+    "TLR2": "q",
+    "TLR3": "z",
+    "TL1": "i",
+    "TL2": "r",
+    "TL3": null
+  },
+  "extra_symbol_policy": "Keep index26 unknown; do not interpret as a letter,space,fullstop,codeword or null.",
+  "new_class_policy": "Values for training-unseen source classes are conditional geometric predictions, not empirical learned mappings. Primary fixed-key-only evaluation must remain separate."
+}

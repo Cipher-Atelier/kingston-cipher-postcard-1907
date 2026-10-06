@@ -1,0 +1,1864 @@
+{
+  "created_utc": "2026-10-04T18:12:37.903105+00:00",
+  "audit_sha256": "d37540a17e098b315290b0d64ad9f541f191f3559c46ee0e1938fb949cd87cfa",
+  "source_corrections": {
+    "r08c17": "TL1"
+  },
+  "new_conservative_source_masks": [
+    "r04c07",
+    "r13c05"
+  ],
+  "all_prior_source_ambiguities_retained": true,
+  "key_and_geometric_rule_changed": false,
+  "model_refit": false,
+  "rows": [
+    {
+      "row": 1,
+      "scope": "training",
+      "strict_geometry_after_source_review": "well helen my [27] i did"
+    },
+    {
+      "row": 2,
+      "scope": "training",
+      "strict_geometry_after_source_review": "not get the letter i"
+    },
+    {
+      "row": 3,
+      "scope": "training",
+      "strict_geometry_after_source_review": "expected tonight was"
+    },
+    {
+      "row": 4,
+      "scope": "training",
+      "strict_geometry_after_source_review": "ist los?en mit dir well"
+    },
+    {
+      "row": 5,
+      "scope": "training",
+      "strict_geometry_after_source_review": "sweetheart as i will be"
+    },
+    {
+      "row": 6,
+      "scope": "training",
+      "strict_geometry_after_source_review": "there almost as soon as"
+    },
+    {
+      "row": 7,
+      "scope": "training",
+      "strict_geometry_after_source_review": "?his card i will only"
+    },
+    {
+      "row": 8,
+      "scope": "training",
+      "strict_geometry_after_source_review": "?ell you how much i miss"
+    },
+    {
+      "row": 9,
+      "scope": "training",
+      "strict_geometry_after_source_review": "you how much i will"
+    },
+    {
+      "row": 10,
+      "scope": "heldout",
+      "strict_geometry_after_source_review": "love you to make up for"
+    },
+    {
+      "row": 11,
+      "scope": "heldout",
+      "strict_geometry_after_source_review": "it ?hen i see ?ou so good"
+    },
+    {
+      "row": 12,
+      "scope": "heldout",
+      "strict_geometry_after_source_review": "?ight love ki?s es your"
+    },
+    {
+      "row": 13,
+      "scope": "heldout",
+      "strict_geometry_after_source_review": "fett?ock"
+    }
+  ],
+  "positions": [
+    {
+      "position": "r01c01",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r01c02",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r01c03",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r01c04",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r01c05",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r01c06",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r01c07",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r01c08",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r01c09",
+      "scope": "training",
+      "original_source_glyph": "TLBR2",
+      "post_review_glyph": "TLBR2",
+      "strict_output": "n",
+      "source_masked": false
+    },
+    {
+      "position": "r01c10",
+      "scope": "training",
+      "original_source_glyph": "TRB2",
+      "post_review_glyph": "TRB2",
+      "strict_output": "m",
+      "source_masked": false
+    },
+    {
+      "position": "r01c11",
+      "scope": "training",
+      "original_source_glyph": "TR3",
+      "post_review_glyph": "TR3",
+      "strict_output": "y",
+      "source_masked": false
+    },
+    {
+      "position": "r01c12",
+      "scope": "training",
+      "original_source_glyph": "TL3",
+      "post_review_glyph": "TL3",
+      "strict_output": "[27]",
+      "source_masked": false
+    },
+    {
+      "position": "r01c13",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r01c14",
+      "scope": "training",
+      "original_source_glyph": "TRB1",
+      "post_review_glyph": "TRB1",
+      "strict_output": "d",
+      "source_masked": false
+    },
+    {
+      "position": "r01c15",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r01c16",
+      "scope": "training",
+      "original_source_glyph": "TRB1",
+      "post_review_glyph": "TRB1",
+      "strict_output": "d",
+      "source_masked": false
+    },
+    {
+      "position": "r02c01",
+      "scope": "training",
+      "original_source_glyph": "TLBR2",
+      "post_review_glyph": "TLBR2",
+      "strict_output": "n",
+      "source_masked": false
+    },
+    {
+      "position": "r02c02",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r02c03",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r02c04",
+      "scope": "training",
+      "original_source_glyph": "TR1",
+      "post_review_glyph": "TR1",
+      "strict_output": "g",
+      "source_masked": false
+    },
+    {
+      "position": "r02c05",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r02c06",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r02c07",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r02c08",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r02c09",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r02c10",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r02c11",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r02c12",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r02c13",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r02c14",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r02c15",
+      "scope": "training",
+      "original_source_glyph": "TL2",
+      "post_review_glyph": "TL2",
+      "strict_output": "r",
+      "source_masked": false
+    },
+    {
+      "position": "r02c16",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r03c01",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r03c02",
+      "scope": "training",
+      "original_source_glyph": "TLB3",
+      "post_review_glyph": "TLB3",
+      "strict_output": "x",
+      "source_masked": false
+    },
+    {
+      "position": "r03c03",
+      "scope": "training",
+      "original_source_glyph": "TR2",
+      "post_review_glyph": "TR2",
+      "strict_output": "p",
+      "source_masked": false
+    },
+    {
+      "position": "r03c04",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r03c05",
+      "scope": "training",
+      "original_source_glyph": "BL1",
+      "post_review_glyph": "BL1",
+      "strict_output": "c",
+      "source_masked": false
+    },
+    {
+      "position": "r03c06",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r03c07",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r03c08",
+      "scope": "training",
+      "original_source_glyph": "TRB1",
+      "post_review_glyph": "TRB1",
+      "strict_output": "d",
+      "source_masked": false
+    },
+    {
+      "position": "r03c09",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r03c10",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r03c11",
+      "scope": "training",
+      "original_source_glyph": "TLBR2",
+      "post_review_glyph": "TLBR2",
+      "strict_output": "n",
+      "source_masked": false
+    },
+    {
+      "position": "r03c12",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r03c13",
+      "scope": "training",
+      "original_source_glyph": "TR1",
+      "post_review_glyph": "TR1",
+      "strict_output": "g",
+      "source_masked": false
+    },
+    {
+      "position": "r03c14",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r03c15",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r03c16",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r03c17",
+      "scope": "training",
+      "original_source_glyph": "BR1",
+      "post_review_glyph": "BR1",
+      "strict_output": "a",
+      "source_masked": false
+    },
+    {
+      "position": "r03c18",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r04c01",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r04c02",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r04c03",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r04c04",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r04c05",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r04c06",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r04c07",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "?",
+      "source_masked": true
+    },
+    {
+      "position": "r04c08",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r04c09",
+      "scope": "training",
+      "original_source_glyph": "TLBR2",
+      "post_review_glyph": "TLBR2",
+      "strict_output": "n",
+      "source_masked": false
+    },
+    {
+      "position": "r04c10",
+      "scope": "training",
+      "original_source_glyph": "TRB2",
+      "post_review_glyph": "TRB2",
+      "strict_output": "m",
+      "source_masked": false
+    },
+    {
+      "position": "r04c11",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r04c12",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r04c13",
+      "scope": "training",
+      "original_source_glyph": "TRB1",
+      "post_review_glyph": "TRB1",
+      "strict_output": "d",
+      "source_masked": false
+    },
+    {
+      "position": "r04c14",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r04c15",
+      "scope": "training",
+      "original_source_glyph": "TL2",
+      "post_review_glyph": "TL2",
+      "strict_output": "r",
+      "source_masked": false
+    },
+    {
+      "position": "r04c16",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r04c17",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r04c18",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r04c19",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r05c01",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r05c02",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r05c03",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r05c04",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r05c05",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r05c06",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r05c07",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r05c08",
+      "scope": "training",
+      "original_source_glyph": "BR1",
+      "post_review_glyph": "BR1",
+      "strict_output": "a",
+      "source_masked": false
+    },
+    {
+      "position": "r05c09",
+      "scope": "training",
+      "original_source_glyph": "TL2",
+      "post_review_glyph": "TL2",
+      "strict_output": "r",
+      "source_masked": false
+    },
+    {
+      "position": "r05c10",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r05c11",
+      "scope": "training",
+      "original_source_glyph": "BR1",
+      "post_review_glyph": "BR1",
+      "strict_output": "a",
+      "source_masked": false
+    },
+    {
+      "position": "r05c12",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r05c13",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r05c14",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r05c15",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r05c16",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r05c17",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r05c18",
+      "scope": "training",
+      "original_source_glyph": "BLR1",
+      "post_review_glyph": "BLR1",
+      "strict_output": "b",
+      "source_masked": false
+    },
+    {
+      "position": "r05c19",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r06c01",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r06c02",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r06c03",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r06c04",
+      "scope": "training",
+      "original_source_glyph": "TL2",
+      "post_review_glyph": "TL2",
+      "strict_output": "r",
+      "source_masked": false
+    },
+    {
+      "position": "r06c05",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r06c06",
+      "scope": "training",
+      "original_source_glyph": "BR1",
+      "post_review_glyph": "BR1",
+      "strict_output": "a",
+      "source_masked": false
+    },
+    {
+      "position": "r06c07",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r06c08",
+      "scope": "training",
+      "original_source_glyph": "TRB2",
+      "post_review_glyph": "TRB2",
+      "strict_output": "m",
+      "source_masked": false
+    },
+    {
+      "position": "r06c09",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r06c10",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r06c11",
+      "scope": "training",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r06c12",
+      "scope": "training",
+      "original_source_glyph": "BR1",
+      "post_review_glyph": "BR1",
+      "strict_output": "a",
+      "source_masked": false
+    },
+    {
+      "position": "r06c13",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r06c14",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r06c15",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r06c16",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r06c17",
+      "scope": "training",
+      "original_source_glyph": "TLBR2",
+      "post_review_glyph": "TLBR2",
+      "strict_output": "n",
+      "source_masked": false
+    },
+    {
+      "position": "r06c18",
+      "scope": "training",
+      "original_source_glyph": "BR1",
+      "post_review_glyph": "BR1",
+      "strict_output": "a",
+      "source_masked": false
+    },
+    {
+      "position": "r06c19",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r07c01",
+      "scope": "training",
+      "original_source_glyph": "R3",
+      "post_review_glyph": "R3",
+      "strict_output": "?",
+      "source_masked": true
+    },
+    {
+      "position": "r07c02",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r07c03",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r07c04",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r07c05",
+      "scope": "training",
+      "original_source_glyph": "BL1",
+      "post_review_glyph": "BL1",
+      "strict_output": "c",
+      "source_masked": false
+    },
+    {
+      "position": "r07c06",
+      "scope": "training",
+      "original_source_glyph": "BR1",
+      "post_review_glyph": "BR1",
+      "strict_output": "a",
+      "source_masked": false
+    },
+    {
+      "position": "r07c07",
+      "scope": "training",
+      "original_source_glyph": "TL2",
+      "post_review_glyph": "TL2",
+      "strict_output": "r",
+      "source_masked": false
+    },
+    {
+      "position": "r07c08",
+      "scope": "training",
+      "original_source_glyph": "TRB1",
+      "post_review_glyph": "TRB1",
+      "strict_output": "d",
+      "source_masked": false
+    },
+    {
+      "position": "r07c09",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r07c10",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r07c11",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r07c12",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r07c13",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r07c14",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r07c15",
+      "scope": "training",
+      "original_source_glyph": "TLBR2",
+      "post_review_glyph": "TLBR2",
+      "strict_output": "n",
+      "source_masked": false
+    },
+    {
+      "position": "r07c16",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r07c17",
+      "scope": "training",
+      "original_source_glyph": "TR3",
+      "post_review_glyph": "TR3",
+      "strict_output": "y",
+      "source_masked": false
+    },
+    {
+      "position": "r08c01",
+      "scope": "training",
+      "original_source_glyph": "R3",
+      "post_review_glyph": "R3",
+      "strict_output": "?",
+      "source_masked": true
+    },
+    {
+      "position": "r08c02",
+      "scope": "training",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r08c03",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r08c04",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r08c05",
+      "scope": "training",
+      "original_source_glyph": "TR3",
+      "post_review_glyph": "TR3",
+      "strict_output": "y",
+      "source_masked": false
+    },
+    {
+      "position": "r08c06",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r08c07",
+      "scope": "training",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "u",
+      "source_masked": false
+    },
+    {
+      "position": "r08c08",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r08c09",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r08c10",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r08c11",
+      "scope": "training",
+      "original_source_glyph": "TRB2",
+      "post_review_glyph": "TRB2",
+      "strict_output": "m",
+      "source_masked": false
+    },
+    {
+      "position": "r08c12",
+      "scope": "training",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "u",
+      "source_masked": false
+    },
+    {
+      "position": "r08c13",
+      "scope": "training",
+      "original_source_glyph": "BL1",
+      "post_review_glyph": "BL1",
+      "strict_output": "c",
+      "source_masked": false
+    },
+    {
+      "position": "r08c14",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r08c15",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r08c16",
+      "scope": "training",
+      "original_source_glyph": "TRB2",
+      "post_review_glyph": "TRB2",
+      "strict_output": "m",
+      "source_masked": false
+    },
+    {
+      "position": "r08c17",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r08c18",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r08c19",
+      "scope": "training",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r09c01",
+      "scope": "training",
+      "original_source_glyph": "TR3",
+      "post_review_glyph": "TR3",
+      "strict_output": "y",
+      "source_masked": false
+    },
+    {
+      "position": "r09c02",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r09c03",
+      "scope": "training",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "u",
+      "source_masked": false
+    },
+    {
+      "position": "r09c04",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r09c05",
+      "scope": "training",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r09c06",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r09c07",
+      "scope": "training",
+      "original_source_glyph": "TRB2",
+      "post_review_glyph": "TRB2",
+      "strict_output": "m",
+      "source_masked": false
+    },
+    {
+      "position": "r09c08",
+      "scope": "training",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "u",
+      "source_masked": false
+    },
+    {
+      "position": "r09c09",
+      "scope": "training",
+      "original_source_glyph": "BL1",
+      "post_review_glyph": "BL1",
+      "strict_output": "c",
+      "source_masked": false
+    },
+    {
+      "position": "r09c10",
+      "scope": "training",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r09c11",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r09c12",
+      "scope": "training",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "w",
+      "source_masked": false
+    },
+    {
+      "position": "r09c13",
+      "scope": "training",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r09c14",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r09c15",
+      "scope": "training",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r10c01",
+      "scope": "heldout",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r10c02",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r10c03",
+      "scope": "heldout",
+      "original_source_glyph": "TRB3",
+      "post_review_glyph": "TRB3",
+      "strict_output": "v",
+      "source_masked": false
+    },
+    {
+      "position": "r10c04",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r10c05",
+      "scope": "heldout",
+      "original_source_glyph": "TR3",
+      "post_review_glyph": "TR3",
+      "strict_output": "y",
+      "source_masked": false
+    },
+    {
+      "position": "r10c06",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r10c07",
+      "scope": "heldout",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "u",
+      "source_masked": false
+    },
+    {
+      "position": "r10c08",
+      "scope": "heldout",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r10c09",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r10c10",
+      "scope": "heldout",
+      "original_source_glyph": "TRB2",
+      "post_review_glyph": "TRB2",
+      "strict_output": "m",
+      "source_masked": false
+    },
+    {
+      "position": "r10c11",
+      "scope": "heldout",
+      "original_source_glyph": "BR1",
+      "post_review_glyph": "BR1",
+      "strict_output": "a",
+      "source_masked": false
+    },
+    {
+      "position": "r10c12",
+      "scope": "heldout",
+      "original_source_glyph": "BLR2",
+      "post_review_glyph": "BLR2",
+      "strict_output": "k",
+      "source_masked": false
+    },
+    {
+      "position": "r10c13",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r10c14",
+      "scope": "heldout",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "u",
+      "source_masked": false
+    },
+    {
+      "position": "r10c15",
+      "scope": "heldout",
+      "original_source_glyph": "TR2",
+      "post_review_glyph": "TR2",
+      "strict_output": "p",
+      "source_masked": false
+    },
+    {
+      "position": "r10c16",
+      "scope": "heldout",
+      "original_source_glyph": "TLB1",
+      "post_review_glyph": "TLB1",
+      "strict_output": "f",
+      "source_masked": false
+    },
+    {
+      "position": "r10c17",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r10c18",
+      "scope": "heldout",
+      "original_source_glyph": "TL2",
+      "post_review_glyph": "TL2",
+      "strict_output": "r",
+      "source_masked": false
+    },
+    {
+      "position": "r11c01",
+      "scope": "heldout",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r11c02",
+      "scope": "heldout",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r11c03",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR3",
+      "post_review_glyph": "TLBR3",
+      "strict_output": "?",
+      "source_masked": true
+    },
+    {
+      "position": "r11c04",
+      "scope": "heldout",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r11c05",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r11c06",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR2",
+      "post_review_glyph": "TLBR2",
+      "strict_output": "n",
+      "source_masked": false
+    },
+    {
+      "position": "r11c07",
+      "scope": "heldout",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r11c08",
+      "scope": "heldout",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r11c09",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r11c10",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r11c11",
+      "scope": "heldout",
+      "original_source_glyph": "TR?",
+      "post_review_glyph": "TR?",
+      "strict_output": "?",
+      "source_masked": true
+    },
+    {
+      "position": "r11c12",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r11c13",
+      "scope": "heldout",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "u",
+      "source_masked": false
+    },
+    {
+      "position": "r11c14",
+      "scope": "heldout",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r11c15",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r11c16",
+      "scope": "heldout",
+      "original_source_glyph": "TR1",
+      "post_review_glyph": "TR1",
+      "strict_output": "g",
+      "source_masked": false
+    },
+    {
+      "position": "r11c17",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r11c18",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r11c19",
+      "scope": "heldout",
+      "original_source_glyph": "TRB1",
+      "post_review_glyph": "TRB1",
+      "strict_output": "d",
+      "source_masked": false
+    },
+    {
+      "position": "r12c01",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "?",
+      "source_masked": true
+    },
+    {
+      "position": "r12c02",
+      "scope": "heldout",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r12c03",
+      "scope": "heldout",
+      "original_source_glyph": "TR1",
+      "post_review_glyph": "TR1",
+      "strict_output": "g",
+      "source_masked": false
+    },
+    {
+      "position": "r12c04",
+      "scope": "heldout",
+      "original_source_glyph": "TLR1",
+      "post_review_glyph": "TLR1",
+      "strict_output": "h",
+      "source_masked": false
+    },
+    {
+      "position": "r12c05",
+      "scope": "heldout",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r12c06",
+      "scope": "heldout",
+      "original_source_glyph": "BL2",
+      "post_review_glyph": "BL2",
+      "strict_output": "l",
+      "source_masked": false
+    },
+    {
+      "position": "r12c07",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r12c08",
+      "scope": "heldout",
+      "original_source_glyph": "TRB3",
+      "post_review_glyph": "TRB3",
+      "strict_output": "v",
+      "source_masked": false
+    },
+    {
+      "position": "r12c09",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r12c10",
+      "scope": "heldout",
+      "original_source_glyph": "BLR2",
+      "post_review_glyph": "BLR2",
+      "strict_output": "k",
+      "source_masked": false
+    },
+    {
+      "position": "r12c11",
+      "scope": "heldout",
+      "original_source_glyph": "TL1",
+      "post_review_glyph": "TL1",
+      "strict_output": "i",
+      "source_masked": false
+    },
+    {
+      "position": "r12c12",
+      "scope": "heldout",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "?",
+      "source_masked": true
+    },
+    {
+      "position": "r12c13",
+      "scope": "heldout",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r12c14",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r12c15",
+      "scope": "heldout",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "s",
+      "source_masked": false
+    },
+    {
+      "position": "r12c16",
+      "scope": "heldout",
+      "original_source_glyph": "TR3",
+      "post_review_glyph": "TR3",
+      "strict_output": "y",
+      "source_masked": false
+    },
+    {
+      "position": "r12c17",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r12c18",
+      "scope": "heldout",
+      "original_source_glyph": "BL3",
+      "post_review_glyph": "BL3",
+      "strict_output": "u",
+      "source_masked": false
+    },
+    {
+      "position": "r12c19",
+      "scope": "heldout",
+      "original_source_glyph": "TL2",
+      "post_review_glyph": "TL2",
+      "strict_output": "r",
+      "source_masked": false
+    },
+    {
+      "position": "r13c01",
+      "scope": "heldout",
+      "original_source_glyph": "TLB1",
+      "post_review_glyph": "TLB1",
+      "strict_output": "f",
+      "source_masked": false
+    },
+    {
+      "position": "r13c02",
+      "scope": "heldout",
+      "original_source_glyph": "TLBR1",
+      "post_review_glyph": "TLBR1",
+      "strict_output": "e",
+      "source_masked": false
+    },
+    {
+      "position": "r13c03",
+      "scope": "heldout",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r13c04",
+      "scope": "heldout",
+      "original_source_glyph": "BLR3",
+      "post_review_glyph": "BLR3",
+      "strict_output": "t",
+      "source_masked": false
+    },
+    {
+      "position": "r13c05",
+      "scope": "heldout",
+      "original_source_glyph": "BR3",
+      "post_review_glyph": "BR3",
+      "strict_output": "?",
+      "source_masked": true
+    },
+    {
+      "position": "r13c06",
+      "scope": "heldout",
+      "original_source_glyph": "TLB2",
+      "post_review_glyph": "TLB2",
+      "strict_output": "o",
+      "source_masked": false
+    },
+    {
+      "position": "r13c07",
+      "scope": "heldout",
+      "original_source_glyph": "BL1",
+      "post_review_glyph": "BL1",
+      "strict_output": "c",
+      "source_masked": false
+    },
+    {
+      "position": "r13c08",
+      "scope": "heldout",
+      "original_source_glyph": "BLR2",
+      "post_review_glyph": "BLR2",
+      "strict_output": "k",
+      "source_masked": false
+    }
+  ],
+  "resolved_training_geometry_positions": 154,
+  "resolved_heldout_geometry_positions": 59,
+  "extra_grid_slot": "[27] remains unexplained; first statistical f is not silently promoted to a verifiedvalue.",
+  "plain_islands": "in and u-like-with-uppermark remain competing source readings. Neither is a crib or silently expanded conjunction.",
+  "limits": "Post-evaluation source addendum, not a replacement first test. Mapping coverage is not measured accuracy. Preferred earlier readings LOSSEN/FETTSOCK remain recorded; conservative readings are LOS?EN/FETT?OCK."
+}
