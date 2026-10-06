@@ -2,7 +2,7 @@
 
 Partial geometric-key reading: 213 mapped out of 222 positions, eight masks and unexplained slot 27. Coverage is not accuracy; retain original and later corrections.
 
-Read the [research account](kingston-1907/README.md), [topic navigation](kingston-1907/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
+Read the [research account](kingston-1907/README.md), [verification guide](verification/README.md), and [sources and limits](verification/TOPIC_SCOPE_INDEX.json).
 
 Run the bounded offline checks with Python 3.10 or later from this repository root:
 
