@@ -16,6 +16,8 @@ well helen my [27] i did
 
 ## Start reading
 
+[8–9 October geometry checks](research-updates/2026-10-09-geometry-checks.md): a finite error model gave no unique reading; local pixel connectivity supplied a limited segmentation observation. No new letters were accepted. This update is a text summary, with full replay materials retained locally.
+
 1. [Read the plain-language guide](READING_GUIDE.md): the document, result, file meanings and one worked check. No programming is required.
 2. Open [Literal postcard reading](verification/readings/evidence/HCP1193_Verified_Reading/literal_reading.txt) to inspect the saved text or test result itself.
 3. Read the [research account](kingston-1907/README.md) for historical context, methods, earlier work and unresolved questions.
